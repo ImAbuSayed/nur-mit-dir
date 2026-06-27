@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nur mit dir
+
+This log tracks the cryptographic history and versioning for the song **Nur mit dir** (nur-mit-dir).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T00:47:46.424147 | `v1` | `48b97da0dedbd069af36003ae1ab9cd322b30cb737de628013b56c11e3a505f3` | `72ee73255895e863253e29f74c722279e55e0c83935fad1dc32e0eeab057a534` | `2026-06-28_nur-mit-dir-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
